@@ -1,0 +1,28 @@
+{
+  "name": "pingbot",
+  "version": "1.0.0",
+  "description": "A discord bot that reacts to pings! Made by @Cubox, me pushing it into GitHub with his permission.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheYoBots/PingBot.git"
+  },
+  "keywords": [
+    "pingbot",
+    "discord",
+    "js",
+    "reaction"
+  ],
+  "author": "Cubox (Yohaan Seth Nathan Published)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheYoBots/PingBot/issues"
+  },
+  "homepage": "https://github.com/TheYoBots/PingBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
